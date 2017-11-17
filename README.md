@@ -10,8 +10,11 @@ API of the TGVmaxNotify app
   - departure date (prefer)
   - arrival station
   - back date (prefer)
-  - mail alert
+  - mail alert (when available)
   - (smartphone alert) ?
+- Ticket history
+- Total killometers
+
 
 
 Licence GPL v3
